@@ -5,4 +5,5 @@ print('Hi there from another dev')
 def hi_there():
     print('hi')
 
-print('My local change')
+
+print('Updated for merge conflict')
